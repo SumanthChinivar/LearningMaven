@@ -19,6 +19,7 @@ public class BaseClass {
 	String userName="sumanthchinivar16@gmail.com";
 	String password="Rowdy@123";
 	
+	//before class
 	@BeforeClass
 	public void launchBrowser()
 	{
